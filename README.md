@@ -1,4 +1,4 @@
-# Customer Support Ticket Menagement - BPMN
+# Customer Support Ticket Management - BPMN
 
 # 1. PROJECT OVERVIEW
 This repository contains a Business Process Modeling (BPMN) project focused on Customer Support Ticket Management.
